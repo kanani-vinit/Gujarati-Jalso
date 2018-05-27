@@ -1,0 +1,45 @@
+{
+  "carousel": [
+    {
+      "image": "https://i.ytimg.com/vi/gkhHzb4VnRc/maxresdefault.jpg"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/PIbj_05_ICo/maxresdefault.jpg"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/HEvPRgQPrkk/maxresdefault.jpg"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/9imeTQUSmIY/mqdefault.jpg"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/9imeTQUSmIY/maxresdefault.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Latest Releases",
+      "playlist-id": "PLrI5p64X6_FUwnljm73PBRZN6WEZzG0Ui"
+    },
+    {
+      "name": "Movies",
+      "playlist-id": "PLrI5p64X6_FVj6ZrHdn95AUsbT3ctq351"
+    },
+    {
+      "name": "Songs",
+      "playlist-id": "PLrI5p64X6_FVDfLQNg1SYtESVbaDdqkNF"
+    },
+    {
+      "name": "Jokes",
+      "playlist-id": "PLrI5p64X6_FVWw_EH-sL__kfv0qgUzdgG"
+    },
+    {
+      "name": "Dayro",
+      "playlist-id": "PLrI5p64X6_FUwnljm73PBRZN6WEZzG0Ui"
+    },
+    {
+      "name": "Natak",
+      "playlist-id": "PLrI5p64X6_FUnNvE34X8qQSc0RnGX9Qcx"
+    }
+  ]
+}
