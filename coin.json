@@ -5,22 +5,29 @@
       "color": "#FF8F00",
       "isIntent": true,
       "text": "Coins",
-      "icon": "www.google.com",
+      "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/coin.png",
       "link": null
     },
      {
       "color": "#4527A0",
       "isIntent": true,
       "text": "Spins",
-      "icon": "www.google.com",
+      "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/spin.png",
       "link": null
+    },
+    {
+      "color": "#4527A0",
+      "isIntent": false,
+      "text": "Rate",
+      "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/star.png",
+      "link": "https://play.google.com/store/apps/details?id=com.darvin.gujaratijalso"
     },
      {
       "color": "#123123",
       "isIntent": false,
-      "text": "About",
-      "icon": "https://cdn.pixabay.com/photo/2014/11/03/11/20/money-515058_960_720.jpg",
-      "link": "https://stackoverflow.com/questions/9986788/android-webview-click-open-within-webview-not-a-default-browser"
+      "text": "Share",
+      "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/share.png",
+      "link": "https://play.google.com/store/apps/details?id=com.darvin.gujaratijalso"
     }
   ]
 }
