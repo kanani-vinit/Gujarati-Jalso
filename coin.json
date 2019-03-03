@@ -13,6 +13,13 @@
       "text": "Spins",
       "icon": "https://cdn.pixabay.com/photo/2014/11/03/11/20/money-515058_960_720.jpg",
       "link": null
+    },
+         {
+      "color": "#123123",
+      "isIntent": false,
+      "text": "About",
+      "icon": "https://cdn.pixabay.com/photo/2014/11/03/11/20/money-515058_960_720.jpg",
+      "link": "www.google.com"
     }
   ]
 }
