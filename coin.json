@@ -1,1 +1,11 @@
-
+{
+  "items": [
+    {
+      "color": "#123123",
+      "isIntent": true,
+      "text": "Coins",
+      "icon": "www.google.com",
+      "link": null
+    }
+  ]
+}
