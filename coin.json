@@ -2,14 +2,14 @@
   "canExternal" : false,
   "items": [
     {
-      "color": "#FFDE03",
+      "color": "#FF1744",
       "IntentType": 1,
       "text": "Coins",
       "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/coin.png",
       "link": null
     },
      {
-      "color": "#ee0290",
+      "color": "#EE0290",
       "IntentType": 1,
       "text": "Spins",
       "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/spin.png",
