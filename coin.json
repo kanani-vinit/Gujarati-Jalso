@@ -2,35 +2,35 @@
   "canExternal" : false,
   "items": [
     {
-      "color": "#FF8F00",
+      "color": "#FFDE03",
       "IntentType": 1,
       "text": "Coins",
       "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/coin.png",
       "link": null
     },
      {
-      "color": "#4527A0",
+      "color": "#ee0290",
       "IntentType": 1,
       "text": "Spins",
       "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/spin.png",
       "link": null
     },
     {
-      "color": "#4527A0",
+      "color": "#1E88E5",
       "IntentType": 2,
       "text": "Rate",
       "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/rate.png",
       "link": "https://play.google.com/store/apps/details?id=com.darvin.gujaratijalso"
     },
      {
-      "color": "#123123",
+      "color": "#00C853",
       "IntentType": 3,
       "text": "Share",
       "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/share.png",
       "link": "https://play.google.com/store/apps/details?id=com.darvin.gujaratijalso"
     },
      {
-      "color": "#123123",
+      "color": "#E65100",
       "IntentType": 4,
       "text": "Privacy Policy",
       "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/share.png",
