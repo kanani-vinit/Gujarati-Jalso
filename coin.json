@@ -19,7 +19,7 @@
       "color": "#4527A0",
       "IntentType": 2,
       "text": "Rate",
-      "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/star.png",
+      "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/rate.png",
       "link": "https://play.google.com/store/apps/details?id=com.darvin.gujaratijalso"
     },
      {
@@ -28,6 +28,13 @@
       "text": "Share",
       "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/share.png",
       "link": "https://play.google.com/store/apps/details?id=com.darvin.gujaratijalso"
+    },
+     {
+      "color": "#123123",
+      "IntentType": 4,
+      "text": "Privacy Policy",
+      "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/share.png",
+      "link": "https://gujaratijalso-6f479.firebaseapp.com"
     }
   ]
 }
