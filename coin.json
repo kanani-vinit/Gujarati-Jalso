@@ -20,21 +20,21 @@
       "IntentType": 2,
       "text": "Rate",
       "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/rate.png",
-      "link": "https://play.google.com/store/apps/details?id=com.darvin.gujaratijalso"
+      "link": "https://play.google.com/store/apps/details?id=com.dv.coinsandspins"
     },
      {
       "color": "#00C853",
       "IntentType": 3,
       "text": "Share",
       "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/share.png",
-      "link": "https://play.google.com/store/apps/details?id=com.darvin.gujaratijalso"
+      "link": "https://play.google.com/store/apps/details?id=com.dv.coinsandspins"
     },
      {
       "color": "#E65100",
       "IntentType": 4,
       "text": "Privacy Policy",
       "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/share.png",
-      "link": "https://gujaratijalso-6f479.firebaseapp.com"
+      "link": "http://www.freecoinspinlink.com/pp/Privacy_policy.html"
     }
   ]
 }
