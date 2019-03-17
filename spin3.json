@@ -34,13 +34,13 @@
       "IntentType": 4,
       "text": "Privacy Policy",
       "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/privacy.png",
-      "link": "http://www.freecoinspinlink.com/pp/Privacy_policy.html"
+      "link": "https://coins-spins.firebaseapp.com"
     },
      {
       "color": "#E65100",
       "IntentType": 5,
       "text": "Faq",
-      "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/privacy.png",
+      "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/faq.png",
       "link": null
     }
   ]
