@@ -20,14 +20,14 @@
       "IntentType": 2,
       "text": "Rate",
       "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/rate.png",
-      "link": "https://play.google.com/store/apps/details?id=com.dv.coinsandspins"
+      "link": "com.moon.coins.spins"
     },
      {
       "color": "#00C853",
       "IntentType": 3,
       "text": "Share",
       "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/share.png",
-      "link": "https://play.google.com/store/apps/details?id=com.dv.coinsandspins"
+      "link": "https://play.google.com/store/apps/details?id=com.moon.coins.spins"
     },
      {
       "color": "#E65100",
