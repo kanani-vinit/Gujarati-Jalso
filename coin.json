@@ -1,5 +1,5 @@
 { 
-  "canExternal" : true,
+  "canExternal" : false,
   "items": [
     {
       "color": "#FF1744",
