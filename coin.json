@@ -1,6 +1,10 @@
 { 
   "linkOption" : 3,
   "canExternal" : false,
+  "bannerId" : "  ",
+  "interstitialId" : "   ",
+  "adPreference" : "fb",
+  "appUrl" : "http://play.google.com/store/apps/details?id=com.coinspinbonus.coinwiki",
   "items": [
     {
       "color": "#FF1744",
