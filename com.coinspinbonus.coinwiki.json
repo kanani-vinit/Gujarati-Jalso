@@ -8,14 +8,14 @@
   "items": [
     {
       "color": "#FF1744",
-      "IntentType": 0,
+      "IntentType": 1,
       "text": "Coins",
       "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/coin.png",
       "link": null
     },
      {
       "color": "#EE0290",
-      "IntentType": 0,
+      "IntentType": 1,
       "text": "Spins",
       "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/spin.png",
       "link": null
@@ -25,14 +25,14 @@
       "IntentType": 2,
       "text": "Rate",
       "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/rate.png",
-      "link": "https://play.google.com/store/apps/details?id=com.rj.freecoinspin"
+      "link": "https://play.google.com/store/apps/details?id=com.coinspinbonus.coinwiki"
     },
      {
       "color": "#00C853",
       "IntentType": 3,
       "text": "Share",
       "icon": "https://raw.githubusercontent.com/kanani-vinit/Gujarati-Jalso/master/res/share.png",
-      "link": "https://play.google.com/store/apps/details?id=com.rj.freecoinspin"
+      "link": "https://play.google.com/store/apps/details?id=com.coinspinbonus.coinwiki"
     },
      {
       "color": "#E65100",
